@@ -1,6 +1,26 @@
 ﻿# Pattern Matching in C#
-### <time datetime="2023-03-26">March 26, 2023</time>
-#### Write smaller, more readable code and catch all boundary cases with pattern matching expressions
+
+> Write smaller, more readable code and catch all boundary cases with pattern matching expressions
+<div>
+<style>
+@scope {
+    p {
+        margin: 0;
+    }
+}
+</style>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+<time datetime="2024-03-26">March 26, 2023</time>
+<div style="display: flex; flex-flow: wrap-reverse; direction: rtl; align-items: end; flex: 1;">
+<div style="margin-left: 1em;">
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.dev/johnW-ret/blog/blob/master/fs-http.ipynb)
+</div>
+</div>
+</div>
+</div>
+
+---
 
 My original reason for writing this post was that, some time ago, I felt that the Microsoft documentation for pattern matching in C# did not fully communicate all the cool things you could do with pattern matching in everyday code. Since then, I have come across [this very succinctly summary of Pattern matching](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/pattern-matching) from Microsoft. However, I thought that this post could still serve benefit as an introduction in using pattern matching to make everyday code more concise.
 
