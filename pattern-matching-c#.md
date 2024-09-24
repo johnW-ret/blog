@@ -11,12 +11,6 @@
 </style>
 <div style="display: flex; justify-content: space-between; align-items: center;">
 <time datetime="2024-03-26">March 26, 2023</time>
-<div style="display: flex; flex-flow: wrap-reverse; direction: rtl; align-items: end; flex: 1;">
-<div style="margin-left: 1em;">
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.dev/johnW-ret/blog/blob/master/fs-http.ipynb)
-</div>
-</div>
 </div>
 </div>
 
