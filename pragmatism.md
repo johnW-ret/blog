@@ -1,4 +1,8 @@
-# The Pragmatic Case Against "Pragmatism"
+---
+title: "The Pragmatic Case Against \"Pragmatism\""
+description: "Humility over pragmatism"
+createdOn: 2025-06-04
+---
 
 One of my least favorite programming "ism"s has got to be pragmatism.
 
